@@ -140,6 +140,8 @@ header nav ul li a {
 }
 
 .seccion-2 img{
+    display: flex;
+    align-items: center;
     max-width: 110%;
     padding: 0.5em;
 }
